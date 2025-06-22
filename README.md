@@ -12,6 +12,7 @@
     🏦 Sectoral insights: Auto, Infra, Banking, and Mid-Cap Stocks
 
 🧠 Key Insights
+   
     🔹 Top 5 Stocks Deep Dive
 | Company    | Highlight                                                                |
 | ---------- | ------------------------------------------------------------------------ |
